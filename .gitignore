@@ -1,0 +1,19 @@
+# Build output
+/build/
+/out/
+
+# Test markers
+payload_loaded*.txt
+payload_unloaded*.txt
+
+# Compiler artifacts
+*.o
+*.obj
+*.a
+*.dll.a
+
+# Editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

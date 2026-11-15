@@ -1,0 +1,7 @@
+#ifndef OPENINJECTOR_RESOURCE_H
+#define OPENINJECTOR_RESOURCE_H
+
+#define IDI_APP 101
+#define IDR_MANIFEST 1
+
+#endif
