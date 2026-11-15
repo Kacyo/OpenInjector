@@ -17,3 +17,6 @@ payload_unloaded*.txt
 .idea/
 Thumbs.db
 desktop.ini
+
+# Temp
+/Release/
